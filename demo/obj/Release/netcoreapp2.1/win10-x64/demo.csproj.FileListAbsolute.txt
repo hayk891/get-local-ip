@@ -1,0 +1,14 @@
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.exe
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.deps.json
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.runtimeconfig.json
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.runtimeconfig.dev.json
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.dll
+D:\Projects\demo\demo\bin\Release\netcoreapp2.1\win10-x64\demo.pdb
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.csprojAssemblyReference.cache
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.csproj.CoreCompileInputs.cache
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.AssemblyInfoInputs.cache
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.AssemblyInfo.cs
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.dll
+D:\Projects\demo\demo\obj\Release\netcoreapp2.1\win10-x64\demo.pdb
